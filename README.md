@@ -96,3 +96,4 @@
     <source src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/2324e6eb-d0e2-4c93-9976-2fb2905ba035" type="video/mp4">
 </video>
 
+https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/2324e6eb-d0e2-4c93-9976-2fb2905ba035
