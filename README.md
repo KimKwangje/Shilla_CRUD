@@ -68,7 +68,8 @@
 <p>
   페이지에 10개 게시글 <br/>
   화면에 최대 페이지 10개 <br/>
-  관리자(Admin)일때만 게시글 작성
+  관리자(Admin)일때만 등록, 수정, 삭제 가능 <br/>
+  사용자(User)일 경우는 읽기만 가능
 </p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/b033822a-9903-465e-89b6-b31f5ce306b3" alt="4" width="100%" />
