@@ -88,3 +88,11 @@
 </p>
 
 <br/>
+
+<h2>
+  시연영상
+</h2>
+<video controls width="600">
+    <source src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/2324e6eb-d0e2-4c93-9976-2fb2905ba035" type="video/mp4">
+</video>
+
