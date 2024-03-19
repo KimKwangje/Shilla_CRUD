@@ -42,4 +42,15 @@
 
 <br/>
 
+<br/>
+
+<h2>
+  게시판 주요 기능
+</h2>
+<p>
+  <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c6ed78a7-914d-4d58-9b07-8793401e4cd9" alt="#" width="100%" />
+</p>
+
+<br/>
+
 
