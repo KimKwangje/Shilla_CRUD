@@ -51,7 +51,7 @@
   회원가입
 </h3>
 <p>
-  필수 항목을 작성 또는 체크해야 회원가입
+  <strong>필수 항목</strong>을 작성 또는 체크해야 회원가입
 </p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c8f40674-f51d-4fe1-96a7-a40b66997176" alt="join" width="100%" />
@@ -72,10 +72,10 @@
   게시판 CRUD
 </h3>
 <p>
-  페이지에 10개 게시글 <br/>
-  화면에 최대 페이지 10개 <br/>
-  관리자(Admin)일때만 등록, 수정, 삭제 가능 <br/>
-  사용자(User)일 경우는 읽기만 가능
+  페이지에 게시글 10개 <br/>
+  화면에 최대 페이지 10Page <br/>
+  <strong>관리자</strong>(Admin)일때만 <strong>등록</strong>(C), <strong>수정</strong>(U), <strong>삭제</strong>(D) 가능 <br/>
+  <strong>사용자</strong>(User)일 경우는 <strong>읽기</strong>(R)만 가능
 </p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/b033822a-9903-465e-89b6-b31f5ce306b3" alt="4" width="100%" />
