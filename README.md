@@ -4,9 +4,9 @@
   개발환경
 </h2>
 <p>
-  IDE: Eclipse
-  JDK 8
-  Oracle
+  IDE: Eclipse <br/>
+  JDK 8 <br/>
+  Oracle <br/>
   Lombok
 </p>
 
@@ -16,7 +16,7 @@
   기술스택
 </h2>
 <p>
-  JAVA
+  JAVA <br/>
   Oracle
 </p>
 
