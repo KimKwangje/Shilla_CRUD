@@ -47,14 +47,28 @@
 <h2>
   게시판 주요 기능
 </h2>
+<h3>
+  회원가입
+</h3>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c8f40674-f51d-4fe1-96a7-a40b66997176" alt="join" width="100%" />
 </p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/7fb4997a-63f2-4783-b5d3-de316755d0d1" alt="login" width="100%" />
 </p>
+<h3>
+  로그인
+</h3>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/cbd1009f-16cd-44a1-a4df-1ec85023b5a2" alt="3" width="100%" />
+</p>
+<h3>
+  게시판 CRUD
+</h3>
+<p>
+  페이지에 10개 게시글 <br/>
+  화면에 최대 페이지 10개
+  관리자(Admin)일때만 게시글 작성
 </p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/b033822a-9903-465e-89b6-b31f5ce306b3" alt="4" width="100%" />
