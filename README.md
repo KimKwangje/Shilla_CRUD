@@ -51,6 +51,9 @@
   회원가입
 </h3>
 <p>
+  필수 항목을 작성 또는 체크해야 회원가입
+</p>
+<p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c8f40674-f51d-4fe1-96a7-a40b66997176" alt="join" width="100%" />
 </p>
 <p>
@@ -59,6 +62,9 @@
 <h3>
   로그인
 </h3>
+<p>
+  DB에 일치해야 로그인
+</p>
 <p>
   <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/cbd1009f-16cd-44a1-a4df-1ec85023b5a2" alt="3" width="100%" />
 </p>
