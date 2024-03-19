@@ -37,7 +37,7 @@
   ERD
 </h2>
 <p>
-  <img  src="![erd](https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c6ed78a7-914d-4d58-9b07-8793401e4cd9)" alt="#" width="22px" />
+  <img  src="https://github.com/KimKwangje/Shilla_CRUD/assets/143483634/c6ed78a7-914d-4d58-9b07-8793401e4cd9" alt="#" width="22px" />
 </p>
 
 <br/>
